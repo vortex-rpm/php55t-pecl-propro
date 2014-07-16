@@ -12,7 +12,7 @@
 Summary: a reusable split-off of pecl_http's property proxy API
 Name: %{php_base}-pecl-propro
 Version: 1.0.0
-Release: s.vortex%{?dist}
+Release: 2.vortex%{?dist}
 License: PHP
 Group: Development/Languages
 Vendor: Vortex RPM
